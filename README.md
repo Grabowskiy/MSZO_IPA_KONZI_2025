@@ -22,7 +22,7 @@ printf("%.3f", d);
 ```c++
    printf(“Adj meg egy egesz szamot”);
    int n;
-   scanf_s(“%f“, n)
+   scanf_s(“%f“, n);
 ``` 
 <details>
   <summary>Megoldás</summary>
